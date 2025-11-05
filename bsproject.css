@@ -1,0 +1,25 @@
+.banner{
+    background-image: url(bgm.jpg);
+    padding: 150px !important;
+    background-size: cover;
+}
+#footer{
+    background-color: black;
+    color: white;
+}
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+/* Label Styles */
+label {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 8px;
+    display: block;
+}
